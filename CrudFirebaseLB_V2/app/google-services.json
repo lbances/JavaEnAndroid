@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696736788598",
+    "firebase_url": "https://crudconfirebase-leonardobances-default-rtdb.firebaseio.com",
+    "project_id": "crudconfirebase-leonardobances",
+    "storage_bucket": "crudconfirebase-leonardobances.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696736788598:android:520275b7b01d16a9dfef57",
+        "android_client_info": {
+          "package_name": "firebase.app.crudconfirebase_leonardobances"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696736788598-kjt85onvmm9unl64mkdrkue5j592ict6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMBFk4YrWwOvnNzMn_dM0xm9K_en8pkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696736788598-kjt85onvmm9unl64mkdrkue5j592ict6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

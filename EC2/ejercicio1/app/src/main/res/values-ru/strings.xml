@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Рассчитайте индекс массы тела</string>
+    <string name="txtTitulo">Рассчитайте индекс массы тела</string>
+    <string name="txtPeso">Введите свой вес</string>
+    <string name="txtAltura">Введите свой рост</string>
+    <string name="btnCalcular">Рассчитать</string>
+    <string name="txtResultado"></string>
+
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "589251921026",
+    "project_id": "crudlb",
+    "storage_bucket": "crudlb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589251921026:android:8b62bcad2e7a263da2e09b",
+        "android_client_info": {
+          "package_name": "firebase.app.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589251921026-d3maoki8totp5i20bsg2iuu4id99ken4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firebase.app.prueba",
+            "certificate_hash": "bd3cb2cc3d368abc06de3ba8d0701ffa13ebbf00"
+          }
+        },
+        {
+          "client_id": "589251921026-l1kqvc9dh8ro4ptt3fled2ib44a19vdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY2fIP0TTY3s-bqQNNfNoezKeX58Vilvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589251921026-l1kqvc9dh8ro4ptt3fled2ib44a19vdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="OPERACIONES MATEMÁTICAS"
+        android:textAlignment="center"
+        android:textColor="@color/design_default_color_secondary"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/et_n1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="INGRESE EL VALOR"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/et_n2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="INGRESE EL VALOR"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/bt_suma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="Sumar"
+        android:text="SUMA" />
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RESULTADO"
+        android:textSize="20sp" />
+</LinearLayout>

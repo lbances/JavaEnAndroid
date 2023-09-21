@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Leonardo Bances</string>
+    <string name="txtTitulo">Calcula tu Indice de Masa corporal</string>
+    <string name="txtPeso">Ingresa tu peso</string>
+    <string name="txtAltura">Ingresa tu altura</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtResultado"></string>
+</resources>
